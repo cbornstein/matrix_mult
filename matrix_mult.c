@@ -1,6 +1,6 @@
 /*
  *
- * mem_matrix_mult.c
+ * matrix_mult.c
  * Clare Bornstein
  * 
  *  
